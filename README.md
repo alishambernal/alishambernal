@@ -1,4 +1,5 @@
-## Hi!  👋
+## Hi! 
+I am a graduate student at ASU studying UX. Outside of school, I work as an analyst at an edtech startup. I enjoy crocheting, scrapbooking, and listening to music. 
 
 <!--
 **alishambernal/alishambernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
