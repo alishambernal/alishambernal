@@ -1,8 +1,8 @@
 ## Hi! 
 I am a graduate student at ASU studying UX. Outside of school, I work as an analyst at an edtech startup. I enjoy crocheting, scrapbooking, and listening to music. 
-🌟 Pronouns: She/her 
-👾 I’m currently working on learning HTML and CSS.
-🤎 Fun fact: I have two cats named Moonie and Apollo.
+- 🌟 Pronouns: She/her 
+- 👾 I’m currently working on learning HTML and CSS.
+- 🤎 Fun fact: I have two cats named Moonie and Apollo.
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=alishambernal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=953553&icon_color=953553&text_color=F88379&bg_color=F2D2BD "my Github Stats")
 <!--
