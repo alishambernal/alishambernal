@@ -1,5 +1,5 @@
 ## Hi! 
-I am a graduate student at ASU studying UX. Outside of school, I work as an analyst at an edtech startup. I enjoy crocheting, scrapbooking, and listening to music. 
+I am a graduate student at ASU studying UX. Outside of school, I work as an analyst at an edtech startup. I plan to transition into a product/user experience role. I am new to coding, but looking forward to building fun websites for my crafting projects. Fall is my favorite season and I enjoy crocheting, scrapbooking, and listening to music. 
 - 🌟 Pronouns: She/her 
 - 👾 I’m currently working on learning HTML and CSS.
 - 🤎 Fun fact: I have two cats named Moonie and Apollo.
