@@ -4,7 +4,7 @@ I am a graduate student at ASU studying UX. Outside of school, I work as an anal
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have two cats named Moonie and Apollo.
   
-[![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishambernal)](https://github.com/alishambernal/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=alishambernal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,111111,333333 "my Github Stats")
 <!--
 **alishambernal/alishambernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
