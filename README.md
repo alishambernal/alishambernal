@@ -1,6 +1,10 @@
 ## Hi! 
 I am a graduate student at ASU studying UX. Outside of school, I work as an analyst at an edtech startup. I enjoy crocheting, scrapbooking, and listening to music. 
-
+- 🔭 I’m currently working on learning HTML and CSS
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I have two cats named Moonie and Apollo.
+  
+[![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishambernal)](https://github.com/alishambernal/github-readme-stats)
 <!--
 **alishambernal/alishambernal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
